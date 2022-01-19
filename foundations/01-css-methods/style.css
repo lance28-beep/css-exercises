@@ -1,0 +1,24 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+} */
+div{
+ background-color:red;
+ color: white;
+ font-size: 32px;
+ font-weight: bold;
+ text-align: center;
+}
+
+p{
+  background-color: green;
+  color: white;
+  font-size: 18px;
+}
+
+button{
+ background-color:orange;
+ font-size: 18px;
+}

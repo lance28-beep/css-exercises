@@ -1,0 +1,19 @@
+.class {
+  background-color: lightpink;
+  font-family: 'DejaVu Sans', sans-serif;
+}
+
+#one {
+ color:blue;
+ font-size:36px;
+}
+
+
+.cooler{
+ font-size: 30px;
+}
+
+#two{
+ background-color: lightgreen;
+ font-size: 36px;
+}

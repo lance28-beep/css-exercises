@@ -1,0 +1,13 @@
+button{
+ font-size:28px;
+ font-family:'Helvetica','Times New Roman',serif;
+}
+
+body button:nth-child(1) {
+  background-color: black;
+  color: white;
+}
+body button:nth-child(2) {
+  background-color: yellow;
+  color: black;
+}

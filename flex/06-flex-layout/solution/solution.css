@@ -31,10 +31,12 @@ input {
 body {
   display: flex;
   flex-direction: column;
+  justify-content: st ;
 }
 
 button {
   padding: 8px 16px;
+
 }
 
 .content {
